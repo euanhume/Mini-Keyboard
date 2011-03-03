@@ -1,0 +1,21 @@
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\bin\Debug\Mini Keyboard.exe
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\bin\Debug\Mini Keyboard.pdb
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\bin\Debug\Mini Keyboard.xml
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\obj\Debug\Mini_Keyboard.Resources.resources
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\obj\Debug\Mini Keyboard.vbproj.GenerateResource.Cache
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\obj\Debug\Mini Keyboard.exe
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\obj\Debug\Mini Keyboard.xml
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\obj\Debug\Mini Keyboard.pdb
+C:\Users\Euan\Documents\Visual Studio 2008\Projects\Mini Keyboard\Mini Keyboard\obj\Debug\Mini_Keyboard.Mini_Keyboard.resources
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\obj\Debug\Mini Keyboard.exe
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\obj\Debug\Mini Keyboard.xml
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\obj\Debug\Mini Keyboard.pdb
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\bin\Debug\Mini Keyboard.exe
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\bin\Debug\Mini Keyboard.pdb
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\bin\Debug\Mini Keyboard.xml
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\obj\Debug\Mini_Keyboard.Mini_Keyboard.resources
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\obj\Debug\Mini_Keyboard.Resources.resources
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Euan\Documents\Programming for Computing\Mini Keyboard\Mini Keyboard\obj\Debug\GenerateResource-ResGen.write.1.tlog

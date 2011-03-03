@@ -1,0 +1,10 @@
+This is the source code for a mini keyboard, similar to one on a mobile phone which was my second Visual Basic Assignment. 
+
+Functionality required for this assignment included: 
+
+1. Provide two modes, "Multi-Press" and "Prediction", like that of a mobile phone. 
+2. On pressing any character key a number of times, the corresponding letter would appear. 
+3. On pressing any character key a number of times, it would enable a timer like that of a mobile phone. 
+4. On selecting the 000 button, the text in the WordBuilder textbox would be appended to the textbox. 
+5. On selecting the Enter button, the cursor in the textbox would move to the next line.
+6. Provide a hierarchical menu including open and save features. 
